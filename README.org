@@ -60,7 +60,7 @@ Clone this repo to =~/common-lisp=:
 #+BEGIN_SRC sh
 mkdir -p ~/common-lisp
 cd ~/common-lisp
-git clone https://github.com/vedainc/meria
+git clone https://github.com/vedatechnologiesinc/meria
 #+END_SRC
 You can then load it with =QL:QUICKLOAD=.
 #+BEGIN_SRC lisp
